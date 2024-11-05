@@ -70,6 +70,7 @@ computer-vision-image-processing/
 ├── requirements.txt            # List of dependencies
 └── README.md                   # Project README file
 ```
+Or follow the Google Collab Notebook Structure for reference
 
 ## Contributing
 Contributions are welcome! To contribute:
